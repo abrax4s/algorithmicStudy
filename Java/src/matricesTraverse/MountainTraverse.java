@@ -1,4 +1,4 @@
-package mountainTraverse;
+package matricesTraverse;
 
 import java.util.ArrayList;
 
